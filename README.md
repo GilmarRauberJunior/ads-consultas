@@ -11,4 +11,4 @@ Este projeto é uma aplicação desktop que visa, automatizar o armazenamento de
 ## Como utilizar o softwar
 
 1. Clone o repositório em sua máquina local.
-2. Abra o arquivo `consultorio.sql`, utilizando o MySQL Workbench.
+2. Abra o arquivo `BD-Projeto-PI.sql`, utilizando o MySQL Workbench.
